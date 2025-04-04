@@ -53,4 +53,5 @@
             <!-- end::liberty-maven-plugin[] -->
         </plugins>
     </build>
+<!-- end::maven-war-plugin[] -->
 </project>
